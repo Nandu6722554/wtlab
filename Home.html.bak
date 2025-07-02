@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <title>WELCOME TO CVR</title>
+</head>
+<body>
+   <header>
+       <img src="https://cvr.ac.in/it/it_cvr_logo1.jpg" width="200px" height="200px">
+	  <div style="text-align:center;">
+	  <h1>CVR COLLEGE OF ENGINEERING</h1>
+	  <p>In pursuit of excellence</p>
+	  <p>An Autonomous ,NAAC 'A'Grade</p>
+	  </div>
+	  <hr>
+	  </header>
+	  <main>
+	  <section>
+	  <nav>
+	  <a href="Home.html">home</a>
+	  <a href="About us.html">About us</a>
+	  <a href="Academics.html">Academics</a>
+	  <a href="Departments.html">Departments</a>
+	  <a href="Research.html">Research</a>
+	  <a href="Infrastructure.html">Infrastructure</a>
+	  <a href="Placements.html">Placements</a>
+	  <a href="Alumni.html">Alumni</a>
+	  <a href="Contact us.html">Contact us</a>
+	  </nav>
+	  <br>
+	  </section>
+	  </div>
+	  <img src="https://cvr.ac.in/home4/images/autonomous.png" width="400px" height="200px">
+	   <div style="text-align:center;"><h2>Autonomous Institution</h2>
+	  
+	  
+	 
+	  
+	
+	  
+	 
